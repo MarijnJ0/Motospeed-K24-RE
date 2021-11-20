@@ -81,14 +81,28 @@ Direct mode:		(Light Synchronize)
 
 Custom:
 
-LED_layout:
+LED_layout_keys:
 
-led_1		led_2		led_3		led_4
-led_5		led_6		led_7		led_8
-led_9		led_10		led_11		led_12
-led_13		led_14		led_15		null
-led_16		led_17		led_18		led_19
-led_20		null		led_21		null
+	/	led_1		led_2		led_3		led_4		/
+		led_5		led_6		led_7		led_8
+		led_9		led_10		led_11		led_12
+		led_13		led_14		led_15		null
+		led_16		led_17		led_18		led_19
+	/	led_20		null		led_21		null		/
+
+LED_layout_underglow:
+
+	/	null		und_1		und_2		und_3		und_4		null		/
+		und_23		null		null		null		null		und_5
+		und_22		null		null		null		null		und_6
+		und_21		null		null		null		null		und_7
+		und_20		null		null		null		null		und_8
+		und_19		null		null		null		null		und_9
+		null		null		null		null		null		und_10
+		und_18		null		null		null		null		und_11
+		und_17		null		null		null		null		und_12
+	/	und_16		null		und_15		null		und_14		und_13		/
+
 
 Data_layout:
 
