@@ -3,6 +3,10 @@ Reverse engineering the motospeed K24 to be able to control the leds using openr
 
 Openrgb issue: https://gitlab.com/CalcProgrammer1/OpenRGB/-/issues/1921
 
+Device descriptors:
+- HID\VID_0416
+- PID_C345
+
 The txt file contains all the data that I have managed to collect using wireshark.
 
 Key modes:
