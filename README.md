@@ -10,14 +10,35 @@ Key modes:
 	- (Captures see: Motospeed_K24_Static_RGB_bright-4-3-2-1-0.pcapng)
 	![image](https://user-images.githubusercontent.com/79994912/143054558-3b396530-6883-4bbf-882c-8f0fb724dfc9.png)
 	
-	- Static mode has a few variables:
+	- Static mode has variables:
+		- Color_random
 		- Color_1
 		- Color_2
 		- Brightness
 	
 	
 - Neon
- 	- (Captures see: 
+ 	- (Captures see: Motospeed_K24_Neon_RrandomB_bright-4-3-2-1-0_speed-4-3-2-1-0.pcapng)
+ 	![image](https://user-images.githubusercontent.com/79994912/143055721-d490e10f-449c-4260-b216-dc598347fe8b.png)
+ 
+ 	- Neon mode has variables:
+		- Color_random
+		- Color_1
+		- Color_2
+		- Brightness
+		- Speed
+
+- Breath
+	- (Captures see: Motospeed_K24_Breath_Rrandom_bright-4-3-2-1-0_speed-4-3-2-1-0.pcapng)
+	![image](https://user-images.githubusercontent.com/79994912/143056223-abcb9af5-4558-40b7-98db-fcf1ae3f6855.png)
+
+	- Breath mode has variables:
+		- Color_random
+		- Color_1
+		- Color_2
+		- Brightness
+		- Speed
+
 - Wave
 - Twinkle
 - Radar
