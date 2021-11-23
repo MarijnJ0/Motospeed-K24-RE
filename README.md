@@ -110,9 +110,33 @@ Data_layout:
 
 see txt
 
+Light Synchronize/Direct mode
+
+- (captures see: Motospeed_K24_Direct_Music_bright-4-Red.pcapng)
+- This mode instantly sents the selected rgb settings to the device, when direct mode is active, key brightness and underglow brightness and speed are calculated into the packets. The variable values aren't transmitted to the device.
+- For some reason some of the variables change depending on what mode is selected.
+
+	- Variable(s):
+	- music_rhythm_brightness:	00000X
+		- 0			37006f
+		- 1			410082
+		- 2 			4d009b
+		- 3			6000c1
+		- 4			7f00fe
 
 
+	- custom_brightness:		00000X
+		- 0			000006
+		- 1			000007
+		- 2			000009
+		- 3			00000b
+		- 4			00000f
 
+Data layout for direct mode can be found in the txt file, direct mode can control both key leds as well as underglow leds. 
+Note: 	- led_xx = led in key matrix.
+	- led_xx,5 = don't exist on the board, just virtual. 
+	- und_xx = led in underglow.
+	
 
 To do: 
 - figure out what certain packets (when in direct mode) do, see test section in txt.
