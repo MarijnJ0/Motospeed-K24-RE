@@ -63,7 +63,7 @@ Key modes:
 	- Note: Musical Rhythm mode will only show on the device when 'Light Synchronize' (AKA direct mode) has been toggled on. Musical Rhythm mode can be considered a keyboard visualising software.
 
 - Custom
-	- (captures see: Motospeed_K24_Custom_bright-4-3-2-1-0_(full board)RGB_random.pcapng)
+	- (captures see: Motospeed_K24_Custom_bright-4-3-2-1-0_(full board)RGB.pcapng)
 	![image](https://user-images.githubusercontent.com/79994912/143058295-a99fd1ed-568b-41dd-b224-2fcb5afe271a.png)
 
 	- Custom mode has variables:
