@@ -5,9 +5,19 @@ Openrgb issue: https://gitlab.com/CalcProgrammer1/OpenRGB/-/issues/1921
 
 The txt file contains all the data that I have managed to collect using wireshark.
 
-Captures:
-- Static
+Key modes:
+- Static 
+	- (Captures see: Motospeed_K24_Static_RGB_bright-4-3-2-1-0.pcapng)
+	![image](https://user-images.githubusercontent.com/79994912/143054558-3b396530-6883-4bbf-882c-8f0fb724dfc9.png)
+	
+	- Static mode has a few variables:
+		- Color_1
+		- Color_2
+		- Brightness
+	
+	
 - Neon
+ 	- (Captures see: 
 - Wave
 - Twinkle
 - Radar
