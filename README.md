@@ -51,6 +51,15 @@ Key modes:
 - Fireworks
 - Speed Respond
 - Musical Rhythm
+	- (Captures see: Motospeed_K24_Music_bright-4-3-2-1-0_Purple_random_Red.pcapng)
+	![image](https://user-images.githubusercontent.com/79994912/143057285-89226821-75c4-4d14-b913-d176374bd1d5.png)
+
+	- Musical Rhythm mode has variables:
+		- Color_random
+		- Color_1
+		- Color_2
+		- Brightness
+
 - Custom
 
 
